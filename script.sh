@@ -2,7 +2,7 @@
 # Мониторинг ресурсов. Раз в INTERVAL секунд дописывает в monitor.log вывод free -h, df -h и uptime с меткой времени
 
 LOG_FILE="monitor.log"
-INTERVAL=3
+INTERVAL=10
 
 # Проверка: нужные команды есть в системе
 for cmd in free df uptime; do
