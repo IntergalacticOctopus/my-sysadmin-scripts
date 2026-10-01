@@ -1,0 +1,61 @@
+--- 2026-10-02 00:38:58 ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       219Mi       488Mi       0.0Ki       1.2Gi       1.5Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           190M  944K  189M   1% /run
+/dev/sda1       9.6G  2.3G  7.3G  24% /
+tmpfs           950M     0  950M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs           190M  4.0K  190M   1% /run/user/1001
+ 00:38:58 up 3 days, 21:28,  1 user,  load average: 0.00, 0.00, 0.00
+--- 2026-10-02 00:39:08 ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       218Mi       489Mi       0.0Ki       1.2Gi       1.5Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           190M  944K  189M   1% /run
+/dev/sda1       9.6G  2.3G  7.3G  24% /
+tmpfs           950M     0  950M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs           190M  4.0K  190M   1% /run/user/1001
+ 00:39:08 up 3 days, 21:29,  1 user,  load average: 0.00, 0.00, 0.00
+--- 2026-10-02 00:39:18 ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       218Mi       489Mi       0.0Ki       1.2Gi       1.5Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           190M  944K  189M   1% /run
+/dev/sda1       9.6G  2.3G  7.3G  24% /
+tmpfs           950M     0  950M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs           190M  4.0K  190M   1% /run/user/1001
+ 00:39:18 up 3 days, 21:29,  1 user,  load average: 0.00, 0.00, 0.00
+--- 2026-10-02 00:39:28 ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       218Mi       489Mi       0.0Ki       1.2Gi       1.5Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           190M  944K  189M   1% /run
+/dev/sda1       9.6G  2.3G  7.3G  24% /
+tmpfs           950M     0  950M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs           190M  4.0K  190M   1% /run/user/1001
+ 00:39:28 up 3 days, 21:29,  1 user,  load average: 0.00, 0.00, 0.00
+--- 2026-10-02 00:39:38 ---
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       218Mi       488Mi       0.0Ki       1.2Gi       1.5Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           190M  944K  189M   1% /run
+/dev/sda1       9.6G  2.3G  7.3G  24% /
+tmpfs           950M     0  950M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs           190M  4.0K  190M   1% /run/user/1001
+ 00:39:38 up 3 days, 21:29,  1 user,  load average: 0.00, 0.00, 0.00
+--- 2026-10-02 00:39:47 мониторинг остановлен ---
